@@ -49,7 +49,3 @@ This tool is designed to automate essential PC maintenance tasks for improved pe
 
 - Windows OS
 - Administrator privileges to run certain commands
-
-## License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
